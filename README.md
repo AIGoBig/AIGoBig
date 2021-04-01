@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there 👋  ![](https://visitor-badge.glitch.me/badge?page_id=sunqinghu.readme)
 ![wellcome](https://uploads.disquscdn.com/images/6b64e8007ad516c545c077daf3e07cf34e430e3e9c54e041ffe6eeb4d033808a.jpg?w=800&h=240)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sunqinghu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=stars,prs&count_private=true" />
 
-From this page builded, ![](https://visitor-badge.glitch.me/badge?page_id=sunqinghu.readme)
 
 - 🔭 I’m currently studying on XDU.
 - ✒️ I like swimming and writing.
