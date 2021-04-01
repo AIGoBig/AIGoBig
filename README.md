@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![wellcome](https://uploads.disquscdn.com/images/6b64e8007ad516c545c077daf3e07cf34e430e3e9c54e041ffe6eeb4d033808a.jpg?w=800&h=240)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sunqinghu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sunqinghu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=commits,issues,contribs" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sunqinghu.readme)
 
@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 
 Reference:
 https://github.com/Wonz5130
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 -->
