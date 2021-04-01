@@ -19,10 +19,12 @@
 [![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=c++&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
 
-#### Status🏫
+#### Connect with Me🤝🏻 
+![](https://img.shields.io/static/v1?label=mail&message=qinghu.sun@outlook.com&color=7BB32E&logo=mail) 
+![](https://img.shields.io/static/v1?label=tel&message=15666528629&color=7BB32E&logo=tel) 
+![](https://img.shields.io/static/v1?label=qq&message=1129759801&color=7BB32E&logo=qq) 
 ![](https://visitor-badge.glitch.me/badge?page_id=sunqinghu.readme)
 
-#### Connect with Me🤝🏻 
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunqinghu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
