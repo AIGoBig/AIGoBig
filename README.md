@@ -5,6 +5,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sunqinghu.readme)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunqinghu)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently studying on XDU.
 - ✒️ I like swimming and writing.
 - 📫 How to reach me: qinghu.sun@outlook.com.
