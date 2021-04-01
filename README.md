@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+![wellcome](https://uploads.disquscdn.com/images/6b64e8007ad516c545c077daf3e07cf34e430e3e9c54e041ffe6eeb4d033808a.jpg?w=800&h=240)
+
+![](https://visitor-badge.glitch.me/badge?page_id=sunqinghu.readme)
+
 - 🔭 I’m currently studying on XDU.
 - ✒️ I like swimming and writing.
 - 📫 How to reach me: qinghu.sun@outlook.com.
