@@ -5,7 +5,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sunqinghu.readme)
 
-<img align="right" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunqinghu&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunqinghu&layout=compact" />
 
 
 
