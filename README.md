@@ -10,14 +10,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sunqinghu.readme)
 
-<!--
-**sunqinghu/sunqinghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunqinghu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Readme Card (Pined Card)](https://github-readme-stats.vercel.app/api/pin/?username=sunqinghu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 linux卡片
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 mac卡片
@@ -34,6 +26,10 @@ mac卡片
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 
 
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunqinghu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card (Pined Card)](https://github-readme-stats.vercel.app/api/pin/?username=sunqinghu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -41,8 +37,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
 Reference:
 https://github.com/Wonz5130
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
