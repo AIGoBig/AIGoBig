@@ -3,15 +3,14 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sunqinghu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=stars,prs&count_private=true" />
 
-![](https://visitor-badge.glitch.me/badge?page_id=sunqinghu.readme)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunqinghu&layout=compact" />
-
-
+From this page builded, ![](https://visitor-badge.glitch.me/badge?page_id=sunqinghu.readme)
 
 - 🔭 I’m currently studying on XDU.
 - ✒️ I like swimming and writing.
 - 📫 How to reach me: qinghu.sun@outlook.com.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunqinghu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Readme Card (Pined Card)](https://github-readme-stats.vercel.app/api/pin/?username=sunqinghu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,7 +19,6 @@
 <!--
 **sunqinghu/sunqinghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunqinghu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
