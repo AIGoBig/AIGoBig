@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm [SunQH](www.sunqinghu.github.io).
-![wellcome](https://uploads.disquscdn.com/images/6b64e8007ad516c545c077daf3e07cf34e430e3e9c54e041ffe6eeb4d033808a.jpg?w=800&h=240)
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+![wellcome](https://uploads.disquscdn.com/images/6b64e8007ad516c545c077daf3e07cf34e430e3e9c54e041ffe6eeb4d033808a.jpg?w=400&h=120)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 
 --- 
