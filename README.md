@@ -18,7 +18,7 @@ Platform:
 
 Language:
 [![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=c++&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=cpp&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
 
 <!--
