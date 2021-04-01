@@ -10,22 +10,13 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sunqinghu.readme)
 
-linux卡片
+
+Platform:
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-mac卡片
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
-
-手机设备
-[![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.apple.com/)
-
-程序语言
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
-
-游戏
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
-
-
+[![](https://img.shields.io/badge/iphone-11-f5010c?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+Language:
+[![](https://img.shields.io/badge/-python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunqinghu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
