@@ -5,9 +5,9 @@
 ### Hi there 👋  I'm [SunQH](sunqinghu.github.io).
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sunqinghu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=stars,prs&count_private=true" />
 
-- 🔭 I’m currently studying on XDU.
+- 🔭 I’m currently studying at XDU.
 - ✒️ I like swimming and writing.
-- 📫 How to reach me: qinghu.sun@outlook.com.
+- 📫 You can reach me by: qinghu.sun@outlook.com.
 
 #### Platform🛠️
 [![](https://img.shields.io/badge/OS%20Linux-33aadd?style=flat-square&logo=linux&logoColor=ffffff)](https://www.archlinux.org/)
