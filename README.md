@@ -1,5 +1,5 @@
 
-<img align='left' src="https://uploads.disquscdn.com/images/6b64e8007ad516c545c077daf3e07cf34e430e3e9c54e041ffe6eeb4d033808a.jpg?w=600&h=360" width="200">
+<img align='left' src="https://uploads.disquscdn.com/images/6b64e8007ad516c545c077daf3e07cf34e430e3e9c54e041ffe6eeb4d033808a.jpg" width="500">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 --- 
