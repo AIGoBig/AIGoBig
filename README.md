@@ -1,12 +1,9 @@
-
-<img align='left' src="https://uploads.disquscdn.com/images/6b64e8007ad516c545c077daf3e07cf34e430e3e9c54e041ffe6eeb4d033808a.jpg" width="600">
+![wellcome](https://uploads.disquscdn.com/images/6b64e8007ad516c545c077daf3e07cf34e430e3e9c54e041ffe6eeb4d033808a.jpg?w=400&h=240)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sunqinghu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=stars,prs&count_private=true" />
-
 --- 
-
-### Hi there 👋  I'm [SunQH](sunqh.top).
+### Hi there 👋  I'm [SunQH](sunqinghu.github.io).
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sunqinghu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=stars,prs&count_private=true" />
 
 - 🔭 I’m currently studying at XDU.
 - ✒️ I like swimming and writing.
@@ -30,7 +27,6 @@
 
 
 <!--
-![wellcome](https://uploads.disquscdn.com/images/6b64e8007ad516c545c077daf3e07cf34e430e3e9c54e041ffe6eeb4d033808a.jpg?w=600&h=360)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunqinghu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card (Pined Card)](https://github-readme-stats.vercel.app/api/pin/?username=sunqinghu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
