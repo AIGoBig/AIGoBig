@@ -2,12 +2,11 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
 --- 
-### Hi there 👋  I'm [SunQH](sunqinghu.github.io).
+### Hi there 👋  I'm [AIGoBig](sunqh.top).
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sunqinghu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=stars,prs&count_private=true" />
 
-- 🔭 I’m currently studying at XDU.
-- ✒️ I like swimming and writing.
-- 📫 You can reach me by: qinghu.sun@outlook.com.
+- 🔭 I’m currently carrer at internet company.
+- 📚 I am currently researching the direction LLM.
 
 #### Platform🛠️
 [![](https://img.shields.io/badge/OS%20Linux-33aadd?style=flat-square&logo=linux&logoColor=ffffff)](https://www.archlinux.org/)
