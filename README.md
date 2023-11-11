@@ -6,7 +6,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sunqinghu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=stars,prs&count_private=true" />
 
 - 🔭 I’m currently carrer at internet company.
-- 📚 I am currently researching the direction LLM.
+- 📚 I am currently researching the direction of LLM.
 
 #### Platform🛠️
 [![](https://img.shields.io/badge/OS%20Linux-33aadd?style=flat-square&logo=linux&logoColor=ffffff)](https://www.archlinux.org/)
