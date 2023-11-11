@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
 --- 
-### Hi there 👋  I'm [AIGoBig](http://www.sunqh.top).
+### Hi there 👋  I'm [AIGoBig](http://sunqh.top/).
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sunqinghu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=stars,prs&count_private=true" />
 
 - 🔭 I’m currently carrer at internet company.
