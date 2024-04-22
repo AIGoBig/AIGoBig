@@ -19,7 +19,7 @@
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
 
 #### Connect with Me🤝🏻 
-![](https://img.shields.io/static/v1?label=qq&message=easycodecc&color=7BB32E&logo=wechat) 
+![](https://img.shields.io/static/v1?label=wechat&message=easycodecc&color=7BB32E&logo=wechat) 
 [![](https://img.shields.io/static/v1?label=mail&message=1129759801@qq.com&color=7BB32E&logo=mail)](1129759801@qq.com)
 
 <!--
