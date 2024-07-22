@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
 --- 
-### Hi there 👋  I'm [ecode](http://ecode.cc/).
+### Hi there 👋 [easycodecc](http://ecode.cc/).
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AIGoBig&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=stars,prs&count_private=true" />
 
 - 🔭 I’m currently carrer at internet company.
@@ -20,11 +20,9 @@
 
 #### Connect with Me🤝🏻 
 ![](https://img.shields.io/static/v1?label=wechat&message=easycodecc&color=7BB32E&logo=wechat) 
-[![](https://img.shields.io/static/v1?label=mail&message=1129759801@qq.com&color=7BB32E&logo=mail)](1129759801@qq.com)
 
 <!--
-[![](https://img.shields.io/static/v1?label=tel&message=19&color=7BB32E&logo=tel)](15666528629)
-![](https://visitor-badge.glitch.me/badge?page_id=sunqinghu.readme)
+[![](https://img.shields.io/static/v1?label=tel&message=19&color=7BB32E&logo=tel)](19720255701)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunqinghu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card (Pined Card)](https://github-readme-stats.vercel.app/api/pin/?username=sunqinghu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
