@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
 --- 
-### Hi there 👋 [easycodecc](http://ecode.cc/).
+### Hi there 👋 [eCodeAI](http://ecode.cc/).
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AIGoBig&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=stars,prs&count_private=true" />
 
 - 🔭 I’m currently carrer at internet company.
@@ -19,7 +19,7 @@
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
 
 #### Connect with Me🤝🏻 
-![](https://img.shields.io/static/v1?label=wechat&message=easycodecc&color=7BB32E&logo=wechat) 
+![](https://img.shields.io/static/v1?label=wechat&message=eCodeAI&color=7BB32E&logo=wechat) 
 
 <!--
 [![](https://img.shields.io/static/v1?label=tel&message=19&color=7BB32E&logo=tel)](19720255701)
